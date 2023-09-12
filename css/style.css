@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#logo {
+    vertical-align: middle;
+}
+
+main {
+    background-color: green;
+}
+
+h1 {
+    display: inline-block;
+    font-family: 'Kanit', sans-serif;
+    vertical-align: middle;
+}
+
+/* font-family: 'Roboto Condensed', sans-serif;  */
